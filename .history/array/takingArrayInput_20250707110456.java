@@ -1,0 +1,3 @@
+pub;ic class takingArrayInput{
+
+}

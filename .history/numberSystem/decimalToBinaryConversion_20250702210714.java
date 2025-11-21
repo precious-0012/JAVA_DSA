@@ -1,0 +1,9 @@
+public class decimalToBinaryConversion{
+    public static void main(String[] args){
+        int dec = 9;
+        int bin = 0;
+        while(dec>0){
+            
+        }
+    }
+}

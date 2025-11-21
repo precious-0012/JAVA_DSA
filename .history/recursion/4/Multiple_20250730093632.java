@@ -1,0 +1,13 @@
+public class Multiple{
+    static void mul(int n,int k){
+        if(k==0){
+            System.out.println(n);
+            return;
+        }
+        mul(n,k-1);
+        System.out.println(n*k);
+    }
+    public static void main(String[] args) {
+        mul(2,4);
+    }
+}
